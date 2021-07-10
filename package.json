@@ -1,11 +1,11 @@
 {
   "name": "fakehacktui",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Fake hacking terminal user interface",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
-    "start": "node src/index.ts"
+    "start": "node index.js"
   },
   "keywords": [
     "tui",
