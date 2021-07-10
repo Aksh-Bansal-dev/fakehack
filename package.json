@@ -1,6 +1,6 @@
 {
   "name": "fakehacktui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Fake hacking terminal user interface",
   "main": "index.js",
   "bin": "index.js",
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aksh-Bansal-dev/fakehack.git"
+    "url": "https://github.com/Aksh-Bansal-dev/fakehacktui.git"
   },
-  "homepage": "https://github.com/Aksh-Bansal-dev/fakehack#readme",
+  "homepage": "https://github.com/Aksh-Bansal-dev/fakehacktui#readme",
   "bugs": {
-    "url": "https://github.com/Aksh-Bansal-dev/fakehack/issues"
+    "url": "https://github.com/Aksh-Bansal-dev/fakehacktui/issues"
   }
 }
