@@ -1,0 +1,28 @@
+{
+  "name": "fakehack",
+  "version": "1.0.0",
+  "description": "Fake hacking terminal user interface",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "keywords": [
+    "tui",
+    "fake-hacking"
+  ],
+  "author": "Aksh Bansal",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aksh-Bansal-dev/fakehack.git"
+  },
+  "homepage": "https://github.com/Aksh-Bansal-dev/fakehack#readme",
+  "bugs": {
+    "url": "https://github.com/Aksh-Bansal-dev/fakehack/issues"
+  }
+}
