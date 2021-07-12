@@ -1,6 +1,6 @@
 {
   "name": "fakehacktui",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Fake hacking terminal user interface",
   "main": "index.js",
   "bin": "index.js",

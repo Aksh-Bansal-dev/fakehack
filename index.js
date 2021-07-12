@@ -11,7 +11,7 @@ const donut = grid.set(8, 8, 4, 2, contrib.donut, {
   radius: 16,
   arcWidth: 4,
   yPadding: 2,
-  data: [{ label: "Storage", percent: 87 }],
+  data: [{ label: "", percent: 87 }],
 });
 
 const gauge = grid.set(8, 10, 2, 2, contrib.gauge, {
